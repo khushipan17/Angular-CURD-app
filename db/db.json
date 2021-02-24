@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "products": [
+    {
+      "name": "Product 2",
+      "description": "This is for the Test purpose.",
+      "price": 500,
+      "isAvailable": true,
+      "id": 2
+    },
+    {
+      "name": "Product 3",
+      "description": "This is for the test purpose",
+      "price": 200,
+      "isAvailable": true,
+      "id": 3
+    }
+  ]
+}
